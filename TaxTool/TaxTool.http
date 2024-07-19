@@ -1,0 +1,6 @@
+@TaxTool_HostAddress = http://localhost:5214
+
+GET {{TaxTool_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
